@@ -17,8 +17,8 @@
         var windowProperty = 'left=200,top=200,width=500,height=500,toolbar=0,scrollbars=1';
         var newWin = window.open(windowURL, windowID, windowProperty);
         return newWin;
-
     }
+
     function ShowRawDataInNewWindow(windowID, data) {
         var newWindow = OpenNewWindow(windowID);
         var newWindowBody = newWindow.document.getElementsByTagName("BODY")[0]; // get the body and replace
