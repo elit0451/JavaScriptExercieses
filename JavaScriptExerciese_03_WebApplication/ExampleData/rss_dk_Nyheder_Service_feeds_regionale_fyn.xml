@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/nyheder/service/feeds/assets/xsl/rssfeed.xsl"?>
+<rss xmlns:DR="http://dr.dk/channel/2.0/modules/dr/" version="2.0" baseUrl="/nyheder/service/feeds">
+  <channel>
+    <title><![CDATA[P4 Fyn]]></title>
+    <description><![CDATA[]]></description>
+    <link><![CDATA[https://www.dr.dk]]></link>
+    <DR:Year><![CDATA[2018]]></DR:Year>
+    <language><![CDATA[da]]></language>
+    <item>
+      <guid isPermaLink="false"><![CDATA[0d1f1012-a90a-4d2e-a0ab-712f74587789]]></guid>
+      <title><![CDATA[Politi: Flugtbilist har kvæstet 9-årig dreng i Svendborg]]></title>
+      <description><![CDATA[ Politiet er kommet i besiddelse af overvågningsbilleder, som viser påkørslen.]]></description>
+      <link><![CDATA[http://www.dr.dk/nyheder/regionale/fyn/politi-flugtbilist-har-kvaestet-9-aarig-dreng-i-svendborg]]></link>
+      <DR:XmlImageArticle>
+        <DR:ImageUri620x349><![CDATA[https://www.dr.dk/images/other/2018/02/07/scanpix-20130512-142728-4.jpg]]></DR:ImageUri620x349>
+      </DR:XmlImageArticle>
+      <pubDate><![CDATA[Wed, 07 Feb 2018 16:57:00 +0100]]></pubDate>
+      <DR:PostingGuid><![CDATA[0d1f1012-a90a-4d2e-a0ab-712f74587789]]></DR:PostingGuid>
+      <DR:ChannelName><![CDATA[Fyn]]></DR:ChannelName>
+      <DR:ChannelDisplayName><![CDATA[Fyn]]></DR:ChannelDisplayName>
+    </item>
+    <item>
+      <guid isPermaLink="false"><![CDATA[74e65334-6b0c-43ab-b341-d98912a238fc]]></guid>
+      <title><![CDATA[Gymnasieelever: Vi vil have sex på skoleskemaet]]></title>
+      <description><![CDATA[Mange er først klar til at modtage seksualundervisning i gymnasiet. Derfor skal det på skoleskemaet.]]></description>
+      <link><![CDATA[http://www.dr.dk/nyheder/regionale/fyn/gymnasieelever-vi-vil-have-sex-paa-skoleskemaet]]></link>
+      <DR:XmlImageArticle>
+        <DR:ImageUri620x349><![CDATA[https://www.dr.dk/images/crop/2018/02/07/1517993802_skema_0.jpg]]></DR:ImageUri620x349>
+      </DR:XmlImageArticle>
+      <pubDate><![CDATA[Wed, 07 Feb 2018 10:12:00 +0100]]></pubDate>
+      <DR:PostingGuid><![CDATA[74e65334-6b0c-43ab-b341-d98912a238fc]]></DR:PostingGuid>
+      <DR:ChannelName><![CDATA[Fyn]]></DR:ChannelName>
+      <DR:ChannelDisplayName><![CDATA[Fyn]]></DR:ChannelDisplayName>
+    </item>
+    <item>
+      <guid isPermaLink="false"><![CDATA[4dab48e9-4b69-48b5-99e6-ec8c1f5f00e2]]></guid>
+      <title><![CDATA[Eksperter: Seksualundervisning anno 2018 er vigtigere end nogensinde før]]></title>
+      <description><![CDATA[PORTRÆT: Der er et stort samfundsmæssigt behov for at tale om seksualitet og digital adfærd, siger eksperter. ]]></description>
+      <link><![CDATA[http://www.dr.dk/nyheder/regionale/fyn/eksperter-seksualundervisning-anno-2018-er-vigtigere-end-nogensinde-foer]]></link>
+      <DR:XmlImageArticle>
+        <DR:ImageUri620x349><![CDATA[https://www.dr.dk/images/crop/2018/02/06/1517926474_sexartikel_0.jpg]]></DR:ImageUri620x349>
+      </DR:XmlImageArticle>
+      <pubDate><![CDATA[Wed, 07 Feb 2018 10:00:00 +0100]]></pubDate>
+      <DR:PostingGuid><![CDATA[4dab48e9-4b69-48b5-99e6-ec8c1f5f00e2]]></DR:PostingGuid>
+      <DR:ChannelName><![CDATA[Fyn]]></DR:ChannelName>
+      <DR:ChannelDisplayName><![CDATA[Fyn]]></DR:ChannelDisplayName>
+    </item>
+    <item>
+      <guid isPermaLink="false"><![CDATA[a76f30ff-5195-442f-9c01-43bc62c145cf]]></guid>
+      <title><![CDATA[Heartland løfter sløret for hovednavn: Nordirsk legende kommer på fynsk festival]]></title>
+      <description><![CDATA[Musikikonet Van Morrison gæster Egeskov Slot til sommer.]]></description>
+      <link><![CDATA[http://www.dr.dk/nyheder/kultur/musik/heartland-loefter-sloeret-hovednavn-nordirsk-legende-kommer-paa-fynsk-festival]]></link>
+      <DR:XmlImageArticle>
+        <DR:ImageUri620x349><![CDATA[https://www.dr.dk/images/other/2018/02/06/vanmorrison_bradley-quinn-1-002.jpg]]></DR:ImageUri620x349>
+      </DR:XmlImageArticle>
+      <pubDate><![CDATA[Wed, 07 Feb 2018 08:00:00 +0100]]></pubDate>
+      <DR:PostingGuid><![CDATA[a76f30ff-5195-442f-9c01-43bc62c145cf]]></DR:PostingGuid>
+      <DR:ChannelName><![CDATA[Musik]]></DR:ChannelName>
+      <DR:ChannelDisplayName><![CDATA[Musik]]></DR:ChannelDisplayName>
+    </item>
+    <item>
+      <guid isPermaLink="false"><![CDATA[b6be178e-9c9c-46f5-add6-84b1925ecd98]]></guid>
+      <title><![CDATA[Skinbetting fanger børn i ludomaniens spind: - Det er hardcore casinostyle gambling ]]></title>
+      <description><![CDATA[Center for Ludomani oplever stigning i antallet af unge, der er blevet afhængige af skinbetting.]]></description>
+      <link><![CDATA[http://www.dr.dk/nyheder/regionale/fyn/skinbetting-fanger-boern-i-ludomaniens-spind-det-er-hardcore-casinostyle]]></link>
+      <DR:XmlImageArticle>
+        <DR:ImageUri620x349><![CDATA[https://www.dr.dk/images/crop/2018/02/06/1517910739_scanpix-20170412-214006-l.jpg]]></DR:ImageUri620x349>
+      </DR:XmlImageArticle>
+      <pubDate><![CDATA[Tue, 06 Feb 2018 13:03:00 +0100]]></pubDate>
+      <DR:PostingGuid><![CDATA[b6be178e-9c9c-46f5-add6-84b1925ecd98]]></DR:PostingGuid>
+      <DR:ChannelName><![CDATA[Fyn]]></DR:ChannelName>
+      <DR:ChannelDisplayName><![CDATA[Fyn]]></DR:ChannelDisplayName>
+    </item>
+    <item>
+      <guid isPermaLink="false"><![CDATA[d7080188-606f-4f6d-ae94-caf715014a8f]]></guid>
+      <title><![CDATA[Ærøboere vil redde insekterne ]]></title>
+      <description><![CDATA[En gruppe ærøboere vil plante blomster rundt omkring på øen for at give insekterne bedre levevilkår. ]]></description>
+      <link><![CDATA[http://www.dr.dk/nyheder/regionale/fyn/aeroeboere-vil-redde-insekterne]]></link>
+      <DR:XmlImageArticle>
+        <DR:ImageUri620x349><![CDATA[https://www.dr.dk/images/crop/2018/02/02/1517579003_graesmark3.jpg]]></DR:ImageUri620x349>
+      </DR:XmlImageArticle>
+      <pubDate><![CDATA[Mon, 05 Feb 2018 07:02:00 +0100]]></pubDate>
+      <DR:PostingGuid><![CDATA[d7080188-606f-4f6d-ae94-caf715014a8f]]></DR:PostingGuid>
+      <DR:ChannelName><![CDATA[Fyn]]></DR:ChannelName>
+      <DR:ChannelDisplayName><![CDATA[Fyn]]></DR:ChannelDisplayName>
+    </item>
+    <item>
+      <guid isPermaLink="false"><![CDATA[8ac3a0c4-f325-4492-b74c-9259e388f714]]></guid>
+      <title><![CDATA[Overlæge frifundet for grov forsømmelse i sag om patients død]]></title>
+      <description><![CDATA[Retten vurderede, at det ikke var grov forsømmelse, da en patient døde på grund af en overdosis metadon.]]></description>
+      <link><![CDATA[http://www.dr.dk/nyheder/regionale/fyn/overlaege-frifundet-grov-forsoemmelse-i-sag-om-patients-doed]]></link>
+      <DR:XmlImageArticle>
+        <DR:ImageUri620x349><![CDATA[https://www.dr.dk/images/crop/2018/02/02/1517574630_scanpix-20180111-115545-3.jpg]]></DR:ImageUri620x349>
+      </DR:XmlImageArticle>
+      <pubDate><![CDATA[Fri, 02 Feb 2018 15:02:00 +0100]]></pubDate>
+      <DR:PostingGuid><![CDATA[8ac3a0c4-f325-4492-b74c-9259e388f714]]></DR:PostingGuid>
+      <DR:ChannelName><![CDATA[Fyn]]></DR:ChannelName>
+      <DR:ChannelDisplayName><![CDATA[Fyn]]></DR:ChannelDisplayName>
+    </item>
+    <item>
+      <guid isPermaLink="false"><![CDATA[95ccf018-5753-42db-999f-bf447bb12032]]></guid>
+      <title><![CDATA[Lettere at sortere affald: Kig på emballagen for at få hjælp]]></title>
+      <description><![CDATA[Coop har som første supermarkedskæde tilføjet emballagetype på egne mærker for at lette affaldssorteringen.]]></description>
+      <link><![CDATA[http://www.dr.dk/nyheder/regionale/fyn/lettere-sortere-affald-kig-paa-emballagen-faa-hjaelp]]></link>
+      <DR:XmlImageArticle>
+        <DR:ImageUri620x349><![CDATA[http://www.dr.dk/images/crop/2018/01/30/1517305099_emballage1.png]]></DR:ImageUri620x349>
+      </DR:XmlImageArticle>
+      <pubDate><![CDATA[Tue, 30 Jan 2018 17:00:00 +0100]]></pubDate>
+      <DR:PostingGuid><![CDATA[95ccf018-5753-42db-999f-bf447bb12032]]></DR:PostingGuid>
+      <DR:ChannelName><![CDATA[Fyn]]></DR:ChannelName>
+      <DR:ChannelDisplayName><![CDATA[Fyn]]></DR:ChannelDisplayName>
+    </item>
+    <item>
+      <guid isPermaLink="false"><![CDATA[bdcdf068-6fe1-4865-9bbb-8bfbc0c06bba]]></guid>
+      <title><![CDATA[Kig op: Droner bliver en endnu større del af politiets arbejde i fremtiden]]></title>
+      <description><![CDATA[Fyns Politi skal sammen med Rigspolitiet være med til at udbrede brug af droner i landets politikredse.]]></description>
+      <link><![CDATA[http://www.dr.dk/nyheder/regionale/fyn/kig-op-droner-bliver-en-endnu-stoerre-del-af-politiets-arbejde-i-fremtiden]]></link>
+      <DR:XmlImageArticle>
+        <DR:ImageUri620x349><![CDATA[https://www.dr.dk/images/crop/2018/01/29/1517238104_droner2.png]]></DR:ImageUri620x349>
+        <DR:ImageUri620x349><![CDATA[http://mu.net.dr.dk/admin/ProgramCard/Get/urn%3adr%3amu%3aprogramcard%3a5a6f80e4a11f9f2120717b54]]></DR:ImageUri620x349>
+      </DR:XmlImageArticle>
+      <pubDate><![CDATA[Mon, 29 Jan 2018 19:40:00 +0100]]></pubDate>
+      <DR:PostingGuid><![CDATA[bdcdf068-6fe1-4865-9bbb-8bfbc0c06bba]]></DR:PostingGuid>
+      <DR:ChannelName><![CDATA[Fyn]]></DR:ChannelName>
+      <DR:ChannelDisplayName><![CDATA[Fyn]]></DR:ChannelDisplayName>
+    </item>
+    <item>
+      <guid isPermaLink="false"><![CDATA[29f7b611-2116-4541-a62e-54097d2bf18b]]></guid>
+      <title><![CDATA[Mohammed på 10 år har lært Danmarkshistorien udenad ]]></title>
+      <description><![CDATA[Sigurd Barretts bøger om Danmarkshistorien og undervisning i folkeskolen vandt Mohammed Adams historiehjerte.]]></description>
+      <link><![CDATA[http://www.dr.dk/nyheder/regionale/fyn/mohammed-paa-10-aar-har-laert-danmarkshistorien-udenad]]></link>
+      <DR:XmlImageArticle>
+        <DR:ImageUri620x349><![CDATA[http://www.dr.dk/images/crop/2018/01/23/1516699659_img_0332.jpg]]></DR:ImageUri620x349>
+        <DR:ImageUri620x349><![CDATA[http://mu.net.dr.dk/admin/ProgramCard/Get/urn%3adr%3amu%3aprogramcard%3a5a685ee9a11f9f0368353557]]></DR:ImageUri620x349>
+      </DR:XmlImageArticle>
+      <pubDate><![CDATA[Sun, 28 Jan 2018 07:49:00 +0100]]></pubDate>
+      <DR:PostingGuid><![CDATA[29f7b611-2116-4541-a62e-54097d2bf18b]]></DR:PostingGuid>
+      <DR:ChannelName><![CDATA[Fyn]]></DR:ChannelName>
+      <DR:ChannelDisplayName><![CDATA[Fyn]]></DR:ChannelDisplayName>
+    </item>
+    <item>
+      <guid isPermaLink="false"><![CDATA[6f984b7a-a97c-4372-b2e8-7b0c77da263d]]></guid>
+      <title><![CDATA[Her vil de selv: Borgere omdanner gammel fabrik til hotspot]]></title>
+      <description><![CDATA[Kommune tilbød en nedlagt fabrik og en projektleder på deltid. Nu har borgerne i Årslev selv skabt et af Danmarks bedste mødesteder.
+]]></description>
+      <link><![CDATA[http://www.dr.dk/nyheder/regionale/fyn/her-vil-de-selv-borgere-omdanner-gammel-fabrik-til-hotspot]]></link>
+      <DR:XmlImageArticle>
+        <DR:ImageUri620x349><![CDATA[https://www.dr.dk/images/other/2018/01/26/7a9a3500.jpg]]></DR:ImageUri620x349>
+      </DR:XmlImageArticle>
+      <pubDate><![CDATA[Sat, 27 Jan 2018 09:09:00 +0100]]></pubDate>
+      <DR:PostingGuid><![CDATA[6f984b7a-a97c-4372-b2e8-7b0c77da263d]]></DR:PostingGuid>
+      <DR:ChannelName><![CDATA[Fyn]]></DR:ChannelName>
+      <DR:ChannelDisplayName><![CDATA[Fyn]]></DR:ChannelDisplayName>
+    </item>
+    <item>
+      <guid isPermaLink="false"><![CDATA[d6aa4e15-5cc1-43c8-a063-266244ffd0e4]]></guid>
+      <title><![CDATA[Boligforening vil gøre op med Vollsmose-mødested: Seks butiksejere opsagt ]]></title>
+      <description><![CDATA[Butiksejer tror, at ballademagere i Vollsmose vil finde andre steder at mødes.]]></description>
+      <link><![CDATA[http://www.dr.dk/nyheder/regionale/fyn/boligforening-vil-goere-op-med-vollsmose-moedested-seks-butiksejere-opsagt]]></link>
+      <DR:XmlImageArticle>
+        <DR:ImageUri620x349><![CDATA[https://www.dr.dk/images/crop/2018/01/29/1517221165_img_0409_0.jpg]]></DR:ImageUri620x349>
+      </DR:XmlImageArticle>
+      <pubDate><![CDATA[Fri, 26 Jan 2018 16:13:00 +0100]]></pubDate>
+      <DR:PostingGuid><![CDATA[d6aa4e15-5cc1-43c8-a063-266244ffd0e4]]></DR:PostingGuid>
+      <DR:ChannelName><![CDATA[Fyn]]></DR:ChannelName>
+      <DR:ChannelDisplayName><![CDATA[Fyn]]></DR:ChannelDisplayName>
+    </item>
+    <item>
+      <guid isPermaLink="false"><![CDATA[c6086037-257b-4eae-a7cf-04ba607960c0]]></guid>
+      <title><![CDATA[Børns Vilkår om sexkrænkersag: Overgreb kunne være undgået, hvis underretningspligten var blevet fulgt]]></title>
+      <description><![CDATA[ Den tidligere skoleleder på Stige Skole har svigtet børnene, mener seniorkonsulent i Børns Vilkår.]]></description>
+      <link><![CDATA[http://www.dr.dk/nyheder/regionale/fyn/boerns-vilkaar-om-sexkraenkersag-overgreb-kunne-vaere-undgaaet-hvis]]></link>
+      <DR:XmlImageArticle>
+        <DR:ImageUri620x349><![CDATA[https://www.dr.dk/images/crop/2018/01/26/1516976454_9035542_amy_ultra_nyt-00.01.50.05.jpg]]></DR:ImageUri620x349>
+      </DR:XmlImageArticle>
+      <pubDate><![CDATA[Fri, 26 Jan 2018 13:13:00 +0100]]></pubDate>
+      <DR:PostingGuid><![CDATA[c6086037-257b-4eae-a7cf-04ba607960c0]]></DR:PostingGuid>
+      <DR:ChannelName><![CDATA[Fyn]]></DR:ChannelName>
+      <DR:ChannelDisplayName><![CDATA[Fyn]]></DR:ChannelDisplayName>
+    </item>
+    <item>
+      <guid isPermaLink="false"><![CDATA[7089d42a-3297-4d10-8df5-511c2c24ae9f]]></guid>
+      <title><![CDATA[Kræftfremkaldende partikler i branddragter: Brandmænd efterlyser bedre vaskemaskiner]]></title>
+      <description><![CDATA[Mange steder bliver branddragter vasket i almindelige vaskemaskiner. Men det er ikke godt nok.]]></description>
+      <link><![CDATA[http://www.dr.dk/nyheder/regionale/fyn/kraeftfremkaldende-partikler-i-branddragter-brandmaend-efterlyser-bedre]]></link>
+      <DR:XmlImageArticle>
+        <DR:ImageUri620x349><![CDATA[https://www.dr.dk/images/crop/2018/01/26/1516949441_vaskemaskine.jpg]]></DR:ImageUri620x349>
+      </DR:XmlImageArticle>
+      <pubDate><![CDATA[Fri, 26 Jan 2018 10:49:00 +0100]]></pubDate>
+      <DR:PostingGuid><![CDATA[7089d42a-3297-4d10-8df5-511c2c24ae9f]]></DR:PostingGuid>
+      <DR:ChannelName><![CDATA[Fyn]]></DR:ChannelName>
+      <DR:ChannelDisplayName><![CDATA[Fyn]]></DR:ChannelDisplayName>
+    </item>
+    <item>
+      <guid isPermaLink="false"><![CDATA[cd2a145d-be4d-4faf-bdd5-e83af4490862]]></guid>
+      <title><![CDATA[Carsten meldte sig som stamcelledonor: Nu har han reddet en tysk kvindes liv ]]></title>
+      <description><![CDATA[Der er mange millioner stamcelledonorer registreret på verdensplan, men man mangler stadig donorer.]]></description>
+      <link><![CDATA[http://www.dr.dk/nyheder/regionale/fyn/carsten-meldte-sig-som-stamcelledonor-nu-har-han-reddet-en-tysk-kvindes-liv]]></link>
+      <DR:XmlImageArticle>
+        <DR:ImageUri620x349><![CDATA[http://www.dr.dk/images/crop/2018/01/25/1516885882_img_0384.jpg]]></DR:ImageUri620x349>
+      </DR:XmlImageArticle>
+      <pubDate><![CDATA[Thu, 25 Jan 2018 19:21:00 +0100]]></pubDate>
+      <DR:PostingGuid><![CDATA[cd2a145d-be4d-4faf-bdd5-e83af4490862]]></DR:PostingGuid>
+      <DR:ChannelName><![CDATA[Fyn]]></DR:ChannelName>
+      <DR:ChannelDisplayName><![CDATA[Fyn]]></DR:ChannelDisplayName>
+    </item>
+    <item>
+      <guid isPermaLink="false"><![CDATA[bcc73f45-accf-45b8-82f9-056368d19996]]></guid>
+      <title><![CDATA[Forældre efter fyring i sexkrænkersag: Man kunne have stoppet overgrebene langt tidligere ]]></title>
+      <description><![CDATA[Skoleleder er blevet fyret efter at have ignoreret forældres henvendelser om sexkrænker.]]></description>
+      <link><![CDATA[http://www.dr.dk/nyheder/regionale/fyn/foraeldre-efter-fyring-i-sexkraenkersag-man-kunne-have-stoppet-overgrebene]]></link>
+      <DR:XmlImageArticle>
+        <DR:ImageUri620x349><![CDATA[https://www.dr.dk/images/crop/2018/01/25/1516885389_christian_hole.jpg]]></DR:ImageUri620x349>
+      </DR:XmlImageArticle>
+      <pubDate><![CDATA[Thu, 25 Jan 2018 12:44:00 +0100]]></pubDate>
+      <DR:PostingGuid><![CDATA[bcc73f45-accf-45b8-82f9-056368d19996]]></DR:PostingGuid>
+      <DR:ChannelName><![CDATA[Fyn]]></DR:ChannelName>
+      <DR:ChannelDisplayName><![CDATA[Fyn]]></DR:ChannelDisplayName>
+    </item>
+    <item>
+      <guid isPermaLink="false"><![CDATA[93dd1ba0-724c-4d77-969b-bbc944a0aae5]]></guid>
+      <title><![CDATA[Skoleleder ignorerede forældres mistanke om sexovergreb: Nu bliver han fyret]]></title>
+      <description><![CDATA[En undersøgelse fra Odense Kommune viser, at forældre i en årrække forsøgte at advare om sexkrænker.]]></description>
+      <link><![CDATA[http://www.dr.dk/nyheder/regionale/fyn/skoleleder-ignorerede-foraeldres-mistanke-om-sexovergreb-nu-bliver-han-fyret]]></link>
+      <DR:XmlImageArticle>
+        <DR:ImageUri620x349><![CDATA[https://www.dr.dk/images/crop/2018/01/25/1516866774_stige_skole.jpg]]></DR:ImageUri620x349>
+      </DR:XmlImageArticle>
+      <pubDate><![CDATA[Thu, 25 Jan 2018 06:00:00 +0100]]></pubDate>
+      <DR:PostingGuid><![CDATA[93dd1ba0-724c-4d77-969b-bbc944a0aae5]]></DR:PostingGuid>
+      <DR:ChannelName><![CDATA[Fyn]]></DR:ChannelName>
+      <DR:ChannelDisplayName><![CDATA[Fyn]]></DR:ChannelDisplayName>
+    </item>
+    <item>
+      <guid isPermaLink="false"><![CDATA[be59a89d-56c2-4edc-8ed5-44bef1de68ad]]></guid>
+      <title><![CDATA[850.000 havørreder udklækkes: Skal forbedre forholdene i de danske vandløb]]></title>
+      <description><![CDATA[På Fyns Laksefisk sørger de for, at bestanden af havørreder kan være til gavn for natur og fiskere.]]></description>
+      <link><![CDATA[http://www.dr.dk/nyheder/regionale/fyn/850000-havoerreder-udklaekkes-skal-forbedre-forholdene-i-de-danske-vandloeb]]></link>
+      <DR:XmlImageArticle>
+        <DR:ImageUri620x349><![CDATA[https://www.dr.dk/images/other/2018/01/24/joml_a_fyn_some_havoerrederudklaekkes-00.00.42.06.jpg]]></DR:ImageUri620x349>
+      </DR:XmlImageArticle>
+      <pubDate><![CDATA[Wed, 24 Jan 2018 14:21:00 +0100]]></pubDate>
+      <DR:PostingGuid><![CDATA[be59a89d-56c2-4edc-8ed5-44bef1de68ad]]></DR:PostingGuid>
+      <DR:ChannelName><![CDATA[Fyn]]></DR:ChannelName>
+      <DR:ChannelDisplayName><![CDATA[Fyn]]></DR:ChannelDisplayName>
+    </item>
+    <item>
+      <guid isPermaLink="false"><![CDATA[91270085-c183-43a4-9227-618426f6c8d1]]></guid>
+      <title><![CDATA[Fynsk roboteventyr trækker arbejdspladser hjem fra Kina]]></title>
+      <description><![CDATA[Succes i robotbranchen giver nye arbejdspladser på Fyn. ]]></description>
+      <link><![CDATA[http://www.dr.dk/nyheder/regionale/fyn/fynsk-roboteventyr-traekker-arbejdspladser-hjem-fra-kina]]></link>
+      <DR:XmlImageArticle>
+        <DR:ImageUri620x349><![CDATA[https://www.dr.dk/images/crop/2018/01/23/1516688476_kubo.jpg]]></DR:ImageUri620x349>
+      </DR:XmlImageArticle>
+      <pubDate><![CDATA[Tue, 23 Jan 2018 12:46:00 +0100]]></pubDate>
+      <DR:PostingGuid><![CDATA[91270085-c183-43a4-9227-618426f6c8d1]]></DR:PostingGuid>
+      <DR:ChannelName><![CDATA[Fyn]]></DR:ChannelName>
+      <DR:ChannelDisplayName><![CDATA[Fyn]]></DR:ChannelDisplayName>
+    </item>
+    <item>
+      <guid isPermaLink="false"><![CDATA[7e2e6146-e409-4b49-9570-d89eb9e8dd30]]></guid>
+      <title><![CDATA[Patientsikkerheds-direktør efter nattevagt på hospital: Det har gjort stort indtryk ]]></title>
+      <description><![CDATA[En 20-timers vagt skulle vise direktør, hvor vanskeligt registrering af patienter er for lægerne.]]></description>
+      <link><![CDATA[http://www.dr.dk/nyheder/regionale/fyn/patientsikkerheds-direktoer-efter-nattevagt-paa-hospital-det-har-gjort-stort]]></link>
+      <DR:XmlImageArticle>
+        <DR:ImageUri620x349><![CDATA[https://www.dr.dk/images/other/2018/01/22/scanpix-20180122-104211-l.jpg]]></DR:ImageUri620x349>
+      </DR:XmlImageArticle>
+      <pubDate><![CDATA[Mon, 22 Jan 2018 15:40:00 +0100]]></pubDate>
+      <DR:PostingGuid><![CDATA[7e2e6146-e409-4b49-9570-d89eb9e8dd30]]></DR:PostingGuid>
+      <DR:ChannelName><![CDATA[Fyn]]></DR:ChannelName>
+      <DR:ChannelDisplayName><![CDATA[Fyn]]></DR:ChannelDisplayName>
+    </item>
+    <item>
+      <guid isPermaLink="false"><![CDATA[59562baa-c5d7-4ad8-b7f5-493891e6907c]]></guid>
+      <title><![CDATA[Transportordførere undrer sig: Hvorfor må man sælge cykler uden lygter?]]></title>
+      <description><![CDATA[I dag er det ikke et krav, at cykler sælges med lygter. Nu skal ministeren tage stilling til, om det skal ændres.]]></description>
+      <link><![CDATA[http://www.dr.dk/nyheder/regionale/fyn/transportordfoerere-undrer-sig-hvorfor-maa-man-saelge-cykler-uden-lygter]]></link>
+      <DR:XmlImageArticle>
+        <DR:ImageUri620x349><![CDATA[https://www.dr.dk/images/other/2018/01/22/scanpix-20111103-171713-6.jpg]]></DR:ImageUri620x349>
+      </DR:XmlImageArticle>
+      <pubDate><![CDATA[Mon, 22 Jan 2018 13:20:00 +0100]]></pubDate>
+      <DR:PostingGuid><![CDATA[59562baa-c5d7-4ad8-b7f5-493891e6907c]]></DR:PostingGuid>
+      <DR:ChannelName><![CDATA[Fyn]]></DR:ChannelName>
+      <DR:ChannelDisplayName><![CDATA[Fyn]]></DR:ChannelDisplayName>
+    </item>
+    <item>
+      <guid isPermaLink="false"><![CDATA[71077a0b-553a-469a-8877-323324f04357]]></guid>
+      <title><![CDATA[Kronisk hovedpine i Odenses Robo Valley: Ikke nok kvalificeret arbejdskraft]]></title>
+      <description><![CDATA[Robotindustrien ruller frem i Odense. 2020 målet om 3.000 ansatte er allerede nået.]]></description>
+      <link><![CDATA[http://www.dr.dk/nyheder/regionale/fyn/kronisk-hovedpine-i-odenses-robo-valley-ikke-nok-kvalificeret-arbejdskraft]]></link>
+      <DR:XmlImageArticle>
+        <DR:ImageUri620x349><![CDATA[https://www.dr.dk/images/crop/2018/01/19/1516376009_joml_a_txt_roboboom_1-00.00.06.21.jpg]]></DR:ImageUri620x349>
+      </DR:XmlImageArticle>
+      <pubDate><![CDATA[Fri, 19 Jan 2018 18:36:00 +0100]]></pubDate>
+      <DR:PostingGuid><![CDATA[71077a0b-553a-469a-8877-323324f04357]]></DR:PostingGuid>
+      <DR:ChannelName><![CDATA[Fyn]]></DR:ChannelName>
+      <DR:ChannelDisplayName><![CDATA[Fyn]]></DR:ChannelDisplayName>
+    </item>
+    <item>
+      <guid isPermaLink="false"><![CDATA[c4a1f084-7f00-4c51-8d93-8aa7b90157e0]]></guid>
+      <title><![CDATA[Weekendophold og familiebesøg: Sådan vil Bogense lokke skeptiske medarbejdere til ]]></title>
+      <description><![CDATA[Nordfyns Kommune forsøger at tiltrække medarbejdere hos Dansk Sprognævn til Bogense.]]></description>
+      <link><![CDATA[http://www.dr.dk/nyheder/regionale/fyn/weekendophold-og-familiebesoeg-saadan-vil-bogense-lokke-skeptiske-medarbejdere]]></link>
+      <DR:XmlImageArticle>
+        <DR:ImageUri620x349><![CDATA[https://www.dr.dk/images/other/2018/01/19/bogense.png]]></DR:ImageUri620x349>
+      </DR:XmlImageArticle>
+      <pubDate><![CDATA[Fri, 19 Jan 2018 11:12:00 +0100]]></pubDate>
+      <DR:PostingGuid><![CDATA[c4a1f084-7f00-4c51-8d93-8aa7b90157e0]]></DR:PostingGuid>
+      <DR:ChannelName><![CDATA[Fyn]]></DR:ChannelName>
+      <DR:ChannelDisplayName><![CDATA[Fyn]]></DR:ChannelDisplayName>
+    </item>
+    <item>
+      <guid isPermaLink="false"><![CDATA[7b42cfb9-3eac-43c7-a24e-9d8fd4a79a13]]></guid>
+      <title><![CDATA[Ombudsmand: For mange magtanvendelser i sikret døgninstitution på Fyn]]></title>
+      <description><![CDATA[I en ny rapport udtaler Ombudsmanden kritik af Egely, der blandt andet huser varetægtsfængslede unge.]]></description>
+      <link><![CDATA[http://www.dr.dk/nyheder/regionale/fyn/ombudsmand-mange-magtanvendelser-i-sikret-doegninstitution-paa-fyn]]></link>
+      <DR:XmlImageArticle>
+        <DR:ImageUri620x349><![CDATA[https://www.dr.dk/images/crop/2018/01/18/1516281780_scanpix-20080810-180029-6.jpg]]></DR:ImageUri620x349>
+      </DR:XmlImageArticle>
+      <pubDate><![CDATA[Thu, 18 Jan 2018 10:14:00 +0100]]></pubDate>
+      <DR:PostingGuid><![CDATA[7b42cfb9-3eac-43c7-a24e-9d8fd4a79a13]]></DR:PostingGuid>
+      <DR:ChannelName><![CDATA[Fyn]]></DR:ChannelName>
+      <DR:ChannelDisplayName><![CDATA[Fyn]]></DR:ChannelDisplayName>
+    </item>
+    <item>
+      <guid isPermaLink="false"><![CDATA[e6f785ad-9eeb-4f8f-be19-197775a40bb1]]></guid>
+      <title><![CDATA[Før blev hun mobbet både fysisk og psykisk: Efterskoleopholdet ændrede Karinas liv]]></title>
+      <description><![CDATA[To år på Idrætsefterskolen Ulbølle gav Karina livslysten tilbage efter mobning og selvmordsforsøg.]]></description>
+      <link><![CDATA[http://www.dr.dk/nyheder/regionale/fyn/foer-blev-hun-mobbet-baade-fysisk-og-psykisk-efterskoleopholdet-aendrede]]></link>
+      <DR:XmlImageArticle>
+        <DR:ImageUri620x349><![CDATA[https://www.dr.dk/images/crop/2018/01/17/1516175740_karina.jpg]]></DR:ImageUri620x349>
+      </DR:XmlImageArticle>
+      <pubDate><![CDATA[Wed, 17 Jan 2018 19:50:00 +0100]]></pubDate>
+      <DR:PostingGuid><![CDATA[e6f785ad-9eeb-4f8f-be19-197775a40bb1]]></DR:PostingGuid>
+      <DR:ChannelName><![CDATA[Fyn]]></DR:ChannelName>
+      <DR:ChannelDisplayName><![CDATA[Fyn]]></DR:ChannelDisplayName>
+    </item>
+  </channel>
+</rss>

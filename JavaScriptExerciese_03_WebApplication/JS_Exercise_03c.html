@@ -1,0 +1,63 @@
+﻿<script>
+    // javascript exercise 03b
+    // get content of xlm - rss feed data (external) and show the data in you own document
+
+    // Go to the end of this document to se where your code should be placed
+
+    // help function can open a new window for extra data
+    function OpenNewWindow(windowID) {
+        var windowURL = "";
+        var windowProperty = 'left=200,top=200,width=500,height=500,toolbar=0,scrollbars=1';
+        var newWin = window.open(windowURL, windowID, windowProperty);
+        return newWin;
+    }
+    function ShowRawDataInNewWindow(windowID, data) {
+        var newWindow = OpenNewWindow(windowID);
+        var newWindowBody = newWindow.document.getElementsByTagName("BODY")[0]; // get the body and replace
+        newWindowBody.textContent = data;     // insert as html
+    }
+
+    // http request to get data
+    //apiUri = "http://localhost:6063/api/GetData?uri=https://www.dr.dk/Nyheder/Service/feeds/regionale/fyn/#";
+    apiUri = "/ExampleData/rss_dk_Nyheder_Service_feeds_regionale_fyn.xml";        // use local data for now
+    httpReq = new XMLHttpRequest();
+    httpReq.withCredentials = true;
+    httpReq.onloadend = onloadend_action; // set callback function
+    httpReq.open("GET", apiUri, false); // here asynchronous
+    //httpReq.setRequestHeader("Accept", "Accept: text/html");
+    httpReq.send();         // http request is started - no data in http body as it is a GET
+
+    function onloadend_action() {
+        // This is called when data from request is recieved
+        var responseText = httpReq.responseText;    
+
+        var domParser = new DOMParser();
+        xmlDoc = domParser.parseFromString(responseText, "text/xml");
+        //xmlDoc.childNodes
+        var news_Items = xmlDoc.getElementsByTagName("item");
+
+        ShowRawDataInNewWindow("ResponseWindow", responseText);    // show requested content in a seperate window
+
+        document.writeln("<p>main document</p>");
+        document.writeln("<p>This content should be replaced with a list of all news from the rss feed</p><br/>");
+
+        var mainDocBody = document.getElementsByTagName("BODY")[0];     // gives you the body element (has no id)
+
+        ShowData(mainDocBody, news_Items);     // Call for presentation of data
+    }
+
+    function ShowData(documentBody, news_Items) {
+        // first argument is the document body element and second div element with responsedata
+
+        // your code for solving the exercise is to be inserted here
+
+        // You should make a nice presentation of the news - when mouse is over show detail for the news
+        // use a table and insert it in the documentBody
+
+
+        // TIPS!
+        // XML DOM see how to access element: https://www.w3schools.com/xml/xml_dom.asp
+    }
+
+
+</script>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <itunes:owner>
+            <itunes:name>EAL Video</itunes:name>
+            <itunes:email>tlh@eal.dk</itunes:email>
+        </itunes:owner>
+        <title>EAL Video</title>
+        <link>http://webtv.eal.dk</link>
+        <description></description>
+        <language>da-dk</language>
+        <generator>Visualplatform</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <itunes:author>EAL Video</itunes:author>
+        <itunes:type>episodic</itunes:type>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://webtv.eal.dk/files/sitelogo.gif"/>
+        <atom:link rel="self" href="http://webtv.eal.dk/rss"/>
+        <atom:link rel="next" href="http://webtv.eal.dk/rss?p=2&amp;frontpage%5fp=t&amp;podcast%5fp=f"/>
+        <item>
+            <enclosure url="http://webtv.eal.dk/1984079/2052407/2c74146ed19a14bb9cd2e969b35b4b05/video_medium/udsendelse-4-at-skabe-video.mp4?source=podcast" type="video/mp4" length="195911749"/>
+            <title>Udsendelse 4 - At skabe praksis</title>
+            <link>http://webtv.eal.dk/photo/2052407/udsendelse-4-at-skabe</link>
+            <description>&lt;p&gt;Tema: At skabe praksis&lt;/p&gt;&lt;p&gt;&lt;a href="http://webtv.eal.dk/photo/2052407/udsendelse-4-at-skabe"&gt;&lt;img src="http://webtv.eal.dk/1984079/2052407/2c74146ed19a14bb9cd2e969b35b4b05/standard" width="600" height="338"/&gt;&lt;/a&gt;&lt;/p&gt;</description>
+            <guid>http://webtv.eal.dk/photo/2052407</guid>
+            <pubDate>Mon, 20 Jun 2011 08:18:08 GMT</pubDate>
+            <media:title>Udsendelse 4 - At skabe praksis</media:title>
+            <itunes:summary>Tema: At skabe praksis</itunes:summary>
+            <itunes:subtitle>Tema: At skabe praksis</itunes:subtitle>
+            <itunes:author>EAL Video</itunes:author>
+            <itunes:duration>27:32</itunes:duration>
+            <media:description type="html">&lt;p&gt;Tema: At skabe praksis&lt;/p&gt;&lt;p&gt;&lt;a href="http://webtv.eal.dk/photo/2052407/udsendelse-4-at-skabe"&gt;&lt;img src="http://webtv.eal.dk/1984079/2052407/2c74146ed19a14bb9cd2e969b35b4b05/standard" width="600" height="338"/&gt;&lt;/a&gt;&lt;/p&gt;</media:description>
+            <media:content url="http://webtv.eal.dk/v.ihtml?token=2c74146ed19a14bb9cd2e969b35b4b05&amp;source=podcast&amp;photo%5fid=2052407" width="625" height="352" type="text/html" medium="video" duration="1652" isDefault="true" expression="full"/>
+            <media:thumbnail url="http://webtv.eal.dk/1984079/2052407/2c74146ed19a14bb9cd2e969b35b4b05/standard" width="600" height="338"/>
+            <itunes:image href="http://webtv.eal.dk/1984079/2052407/2c74146ed19a14bb9cd2e969b35b4b05/standard/thumbnail.jpg"/>
+        </item>
+        <item>
+            <enclosure url="http://webtv.eal.dk/1482495/1769534/2144052da569594b5907c6b592ba915d/video_medium/udsendelse-3-at-lre-af-video.mp4?source=podcast" type="video/mp4" length="131574923"/>
+            <title>Udsendelse 3 - At lære af praksis</title>
+            <link>http://webtv.eal.dk/photo/1769534/udsendelse-3-at-lre-af</link>
+            <description>&lt;p&gt;Tema: At lære af praksis&lt;/p&gt;&lt;p&gt;&lt;a href="http://webtv.eal.dk/photo/1769534/udsendelse-3-at-lre-af"&gt;&lt;img src="http://webtv.eal.dk/1482495/1769534/2144052da569594b5907c6b592ba915d/standard" width="600" height="338"/&gt;&lt;/a&gt;&lt;/p&gt;</description>
+            <guid>http://webtv.eal.dk/photo/1769534</guid>
+            <pubDate>Thu, 12 May 2011 04:34:41 GMT</pubDate>
+            <media:title>Udsendelse 3 - At lære af praksis</media:title>
+            <itunes:summary>Tema: At lære af praksis</itunes:summary>
+            <itunes:subtitle>Tema: At lære af praksis</itunes:subtitle>
+            <itunes:author>EAL Video</itunes:author>
+            <itunes:duration>18:19</itunes:duration>
+            <media:description type="html">&lt;p&gt;Tema: At lære af praksis&lt;/p&gt;&lt;p&gt;&lt;a href="http://webtv.eal.dk/photo/1769534/udsendelse-3-at-lre-af"&gt;&lt;img src="http://webtv.eal.dk/1482495/1769534/2144052da569594b5907c6b592ba915d/standard" width="600" height="338"/&gt;&lt;/a&gt;&lt;/p&gt;</media:description>
+            <media:content url="http://webtv.eal.dk/v.ihtml?token=2144052da569594b5907c6b592ba915d&amp;source=podcast&amp;photo%5fid=1769534" width="625" height="352" type="text/html" medium="video" duration="1099" isDefault="true" expression="full"/>
+            <media:thumbnail url="http://webtv.eal.dk/1482495/1769534/2144052da569594b5907c6b592ba915d/standard" width="600" height="338"/>
+            <itunes:image href="http://webtv.eal.dk/1482495/1769534/2144052da569594b5907c6b592ba915d/standard/thumbnail.jpg"/>
+        </item>
+        <item>
+            <enclosure url="http://webtv.eal.dk/889266/1450874/1757da9b3a0e1c793c880af59d57a9e9/video_medium/udsendelse-2-at-tale-om-video.mp4?source=podcast" type="video/mp4" length="188395073"/>
+            <title>Udsendelse 2 - At tale om praksis</title>
+            <link>http://webtv.eal.dk/photo/1450874/udsendelse-2-at-tale-om</link>
+            <description>&lt;p&gt;Tema: At tale om praksis&lt;/p&gt;&lt;p&gt;&lt;a href="http://webtv.eal.dk/photo/1450874/udsendelse-2-at-tale-om"&gt;&lt;img src="http://webtv.eal.dk/889266/1450874/1757da9b3a0e1c793c880af59d57a9e9/standard" width="600" height="338"/&gt;&lt;/a&gt;&lt;/p&gt;</description>
+            <guid>http://webtv.eal.dk/photo/1450874</guid>
+            <pubDate>Wed, 23 Mar 2011 12:37:20 GMT</pubDate>
+            <media:title>Udsendelse 2 - At tale om praksis</media:title>
+            <itunes:summary>Tema: At tale om praksis</itunes:summary>
+            <itunes:subtitle>Tema: At tale om praksis</itunes:subtitle>
+            <itunes:author>EAL Video</itunes:author>
+            <itunes:duration>26:26</itunes:duration>
+            <media:description type="html">&lt;p&gt;Tema: At tale om praksis&lt;/p&gt;&lt;p&gt;&lt;a href="http://webtv.eal.dk/photo/1450874/udsendelse-2-at-tale-om"&gt;&lt;img src="http://webtv.eal.dk/889266/1450874/1757da9b3a0e1c793c880af59d57a9e9/standard" width="600" height="338"/&gt;&lt;/a&gt;&lt;/p&gt;</media:description>
+            <media:content url="http://webtv.eal.dk/v.ihtml?token=1757da9b3a0e1c793c880af59d57a9e9&amp;source=podcast&amp;photo%5fid=1450874" width="625" height="352" type="text/html" medium="video" duration="1586" isDefault="true" expression="full"/>
+            <media:thumbnail url="http://webtv.eal.dk/889266/1450874/1757da9b3a0e1c793c880af59d57a9e9/standard" width="600" height="338"/>
+            <itunes:image href="http://webtv.eal.dk/889266/1450874/1757da9b3a0e1c793c880af59d57a9e9/standard/thumbnail.jpg"/>
+        </item>
+        <item>
+            <enclosure url="http://webtv.eal.dk/889267/1134376/6b53c0886fc55283dac7bfdca49e6724/video_medium/udsendelse-1-at-forst-video.mp4?source=podcast" type="video/mp4" length="165264913"/>
+            <title>Udsendelse 1 - At forstå praksis</title>
+            <link>http://webtv.eal.dk/photo/1134376/udsendelse-1-at-forst</link>
+            <description>&lt;p&gt;Udsendelse fra 9. februar 2011&lt;br /&gt;
+Tema: At forstå praksis&lt;/p&gt;&lt;p&gt;&lt;a href="http://webtv.eal.dk/photo/1134376/udsendelse-1-at-forst"&gt;&lt;img src="http://webtv.eal.dk/889267/1134376/6b53c0886fc55283dac7bfdca49e6724/standard" width="600" height="338"/&gt;&lt;/a&gt;&lt;/p&gt;</description>
+            <guid>http://webtv.eal.dk/photo/1134376</guid>
+            <pubDate>Wed, 09 Feb 2011 19:04:43 GMT</pubDate>
+            <media:title>Udsendelse 1 - At forstå praksis</media:title>
+            <itunes:summary>Udsendelse fra 9. februar 2011
+Tema: At forstå praksis</itunes:summary>
+            <itunes:subtitle>Udsendelse fra 9. februar 2011
+Tema: At forstå praksis</itunes:subtitle>
+            <itunes:author>EAL Video</itunes:author>
+            <itunes:duration>23:12</itunes:duration>
+            <media:description type="html">&lt;p&gt;Udsendelse fra 9. februar 2011&lt;br /&gt;
+Tema: At forstå praksis&lt;/p&gt;&lt;p&gt;&lt;a href="http://webtv.eal.dk/photo/1134376/udsendelse-1-at-forst"&gt;&lt;img src="http://webtv.eal.dk/889267/1134376/6b53c0886fc55283dac7bfdca49e6724/standard" width="600" height="338"/&gt;&lt;/a&gt;&lt;/p&gt;</media:description>
+            <media:content url="http://webtv.eal.dk/v.ihtml?token=6b53c0886fc55283dac7bfdca49e6724&amp;source=podcast&amp;photo%5fid=1134376" width="625" height="352" type="text/html" medium="video" duration="1392" isDefault="true" expression="full"/>
+            <media:thumbnail url="http://webtv.eal.dk/889267/1134376/6b53c0886fc55283dac7bfdca49e6724/standard" width="600" height="338"/>
+            <itunes:image href="http://webtv.eal.dk/889267/1134376/6b53c0886fc55283dac7bfdca49e6724/standard/thumbnail.jpg"/>
+        </item>
+        <item>
+            <enclosure url="http://webtv.eal.dk/889266/1123088/9c6d140491303acdf4be4553b43f4d82/video_medium/dmu-dimission-2011-video.mp4?source=podcast" type="video/mp4" length="36873106"/>
+            <title>DMU dimission 2011</title>
+            <link>http://webtv.eal.dk/photo/1123088/dmu-dimission-2011</link>
+            <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://webtv.eal.dk/photo/1123088/dmu-dimission-2011"&gt;&lt;img src="http://webtv.eal.dk/889266/1123088/9c6d140491303acdf4be4553b43f4d82/standard" width="600" height="338"/&gt;&lt;/a&gt;&lt;/p&gt;</description>
+            <guid>http://webtv.eal.dk/photo/1123088</guid>
+            <pubDate>Tue, 08 Feb 2011 08:39:58 GMT</pubDate>
+            <media:title>DMU dimission 2011</media:title>
+            <itunes:summary></itunes:summary>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:author>EAL Video</itunes:author>
+            <itunes:duration>05:16</itunes:duration>
+            <media:description type="html">&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://webtv.eal.dk/photo/1123088/dmu-dimission-2011"&gt;&lt;img src="http://webtv.eal.dk/889266/1123088/9c6d140491303acdf4be4553b43f4d82/standard" width="600" height="338"/&gt;&lt;/a&gt;&lt;/p&gt;</media:description>
+            <media:content url="http://webtv.eal.dk/v.ihtml?token=9c6d140491303acdf4be4553b43f4d82&amp;source=podcast&amp;photo%5fid=1123088" width="625" height="352" type="text/html" medium="video" duration="316" isDefault="true" expression="full"/>
+            <media:thumbnail url="http://webtv.eal.dk/889266/1123088/9c6d140491303acdf4be4553b43f4d82/standard" width="600" height="338"/>
+            <itunes:image href="http://webtv.eal.dk/889266/1123088/9c6d140491303acdf4be4553b43f4d82/standard/thumbnail.jpg"/>
+        </item>
+    </channel>
+</rss>

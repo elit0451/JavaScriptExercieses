@@ -1,0 +1,64 @@
+﻿<script>
+    // javascript exercise 03b
+    // get content of json data (external) and show the data in you own document
+
+    // Go to the end of this document to se where your code should be placed
+
+    // help function can open a new window for extra data
+    function OpenNewWindow(windowID) {
+        var windowURL = "";
+        var windowProperty = 'left=200,top=200,width=500,height=500,toolbar=0,scrollbars=1';
+        var newWin = window.open(windowURL, windowID, windowProperty);
+        return newWin;
+    }
+    function ShowRawDataInNewWindow(windowID, data) {
+        var newWindow = OpenNewWindow(windowID);
+        var newWindowBody = newWindow.document.getElementsByTagName("BODY")[0]; // get the body and replace
+        newWindowBody.textContent = data;     // insert as html
+    }
+
+    // http request to get data
+    //apiUri = "http://localhost:6063/api/GetData?uri=https://portal.opendata.dk/dataset/c9db197c-d225-4f45-b14d-27deb2ae2b3d/resource/6864610d-c2e9-4668-8fef-e40dcb74dcd5/download/parker.json";
+    apiUri = "/ExampleData/parker.json";        // use local data for now
+    httpReq = new XMLHttpRequest();
+    httpReq.withCredentials = true;
+    httpReq.onloadend = onloadend_action; // set callback function
+    httpReq.open("GET", apiUri, false); // here asynchronous
+    //httpReq.setRequestHeader("Accept", "Accept: text/html");
+    httpReq.send();         // http request is started - no data in http body as it is a GET
+
+    function onloadend_action() {
+        // This is called when data from request is recieved
+        var responseText = httpReq.responseText;    
+        var jsonParker = JSON.parse(responseText);  // convert text string to javascript object
+        var jsonParkArray = jsonParker.features;
+
+        ShowRawDataInNewWindow("ResponseWindow", responseText);    // show requested content in a seperate window
+
+        document.writeln("<p>main document</p>");
+        document.writeln("<p>This content should be replaced with a list of all parks with description and link to googlemap with position</p><br/>");
+
+        var mainDocBody = document.getElementsByTagName("BODY")[0];     // gives you the body element (has no id)
+
+        ShowData(mainDocBody, jsonParkArray);     // Call for presentation of data
+    }
+
+    function ShowData(documentBody, jsonParkArray) {
+        // first argument is the document body element and second div element with responsedata
+
+        // your code for solving the exercise is to be inserted here
+
+        // You should make a nice presentation of the parks each must have a link that can give you 
+        // access to googlemap for the position
+        // use a table and insert it in the documentBody
+
+
+        // TIPS!
+        // When you have an json object, you can use the property of the object directly
+        // for array objects you can loop through the array by using position/index
+        // if you use this link you will get position for EAL, Seebladsgade 1, 5000 Odense C, Danmark
+        // http://www.google.dk/maps/@55.4030541,10.3774615,16z    
+    }
+
+
+</script>
