@@ -33,7 +33,9 @@
         var jsonParker = JSON.parse(responseText);  // convert text string to javascript object
         var jsonParkArray = jsonParker.features;
 
-        ShowRawDataInNewWindow("ResponseWindow", responseText);    // show requested content in a seperate window
+        //https://jsoneditoronline.org/ view the JSON obj in a proper format
+
+        //ShowRawDataInNewWindow("ResponseWindow", responseText);    // show requested content in a seperate window
 
         document.writeln("<p>main document</p>");
         document.writeln("<p>This content should be replaced with a list of all parks with description and link to googlemap with position</p><br/>");
@@ -48,6 +50,35 @@
 
         // your code for solving the exercise is to be inserted here
 
+        var parksNames = [];
+        var parksDesc = [];
+        var lat = [];
+        var lon = [];
+
+        for (var i = 0; i < jsonParkArray.length; i++) {
+            parksNames.push(jsonParkArray[i].properties.placering);
+            parksDesc.push(jsonParkArray[i].properties.beskrivelse);
+            lat.push(jsonParkArray[i].properties.lat);
+            lon.push(jsonParkArray[i].properties.lon);
+        }
+
+        var table = document.createElement("table");
+        for (var y = 0; y < parksDesc.length; y++) {
+            var row = table.insertRow(y);
+            var columnDesc = row.insertCell(0);
+
+            var parkGeoLoc = "<a href='https://www.google.com/maps/search/?api=1&query=" + lat[y] + "," + lon[y] + "'>" + parksNames[y] + "</a>";
+
+            columnDesc.width = "700px";
+            columnDesc.innerHTML = "<b>" + parkGeoLoc + "</b> <br/>" + parksDesc[y] + "<br/> <br></br>";
+            
+            table.appendChild(row);
+        }
+
+        documentBody.innerHTML = "";
+        documentBody.appendChild(table);
+
+
         // You should make a nice presentation of the parks each must have a link that can give you 
         // access to googlemap for the position
         // use a table and insert it in the documentBody
@@ -57,7 +88,8 @@
         // When you have an json object, you can use the property of the object directly
         // for array objects you can loop through the array by using position/index
         // if you use this link you will get position for EAL, Seebladsgade 1, 5000 Odense C, Danmark
-        // http://www.google.dk/maps/@55.4030541,10.3774615,16z    
+        // http://www.google.dk/maps/@55.3902,10.3767,16z
+        //https://developers.google.com/maps/documentation/urls/guide useful link for the geo location
     }
 
 
